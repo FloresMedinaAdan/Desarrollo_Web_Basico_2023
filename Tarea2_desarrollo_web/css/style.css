@@ -1,0 +1,49 @@
+#Titulo{
+    /* display: inline; */
+    background-color: greenyellow;
+    border: 5px solid black;
+    text-align: center;
+}
+.Subtitulos{
+    background-color: plum;
+    display: inline;
+    border: 5px solid greenyellow;
+}
+.Parrafo{
+    text-align: justify;
+    background-color: aquamarine;
+    border: 5px solid purple;
+    
+    
+}
+body{
+    background-image:url(../multimedia/OMEN-Blur-6.png);
+}
+.caja_padre{
+    
+}
+.caja--facebook{
+    background-color:aqua;
+    /* display: inline; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+}
+.caja--youtube{
+    background-color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.caja_github{
+    background-color: white;
+    /* display: inline; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.caja{
+    border: 5px solid greenyellow;
+    display: inline;
+}
+
+img{
+    width: 20px;
+    height: 20px;
+}
